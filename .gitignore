@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+
+__pycache__/
+*.py[cod]
+
+config/*.db
+config/*.db-*
+config/*.db.before_restore
+logs/
+
+.venv/
+venv/
